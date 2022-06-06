@@ -1,0 +1,21 @@
+{
+  "name": "code_clube",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "transpile": "tsc",
+    "pregame:console": "npm run transpile",
+    "game:console": "node ./build/user-interface/console"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^17.0.39",
+    "@types/readline-sync": "^1.4.4",
+    "typescript": "^4.7.3"
+  },
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
