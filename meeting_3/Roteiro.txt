@@ -1,0 +1,3 @@
+1. Refatorar o código para remover o acoplamento entre da Console e o Database.
+2. Refatorar o módulo game:console para ser orientado a objetos.
+3. Testes automatizados.
