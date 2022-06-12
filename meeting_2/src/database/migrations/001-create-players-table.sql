@@ -1,0 +1,4 @@
+CREATE TABLE players (
+  name TEXT UNIQUE NOT NULL,
+  wonCount INTEGER NOT NULL DEFAULT 0
+);
