@@ -1,6 +1,6 @@
-## Jogo da Velha | Primeiro encontro
+## Jogo da Velha | Segundo encontro
 
-Neste encontro conversamos um pouco sobre estruturas de dados, orientação a objetos e como podemos usar isso para resolver problemas do dia-a-dia. Para por em prática o que conversamos, desenvolvemos juntos o famoso Jogo da Velha versão CLI.
+Link da gravação: https://1drv.ms/v/s!AtQpSS3_mACDhfgt0Uabg9jLLSA22A?e=i9jzh1
 
 ### Configuração
 
